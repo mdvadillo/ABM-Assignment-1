@@ -13,4 +13,4 @@ Out | (1,0) | (0,0)
 
 [run.py](https://github.com/mdvadillo/ABM-Assignment-1/blob/main/model.py)  runs the model.
 
-in [Assignment_1_Write_Up.pdf](https://github.com/mdvadillo/ABM-Assignment-1/blob/main/Assignment_1_Write_up.pdf) you will find the paper we wrote explaining our changes to the model and a brief look at some results. 
+in [Assignment_1_Write_Up.pdf](https://github.com/mdvadillo/ABM-Assignment-1/blob/main/Assignment_1_Write_Up.pdf) you will find the paper we wrote explaining our changes to the model and a brief look at some results. 
